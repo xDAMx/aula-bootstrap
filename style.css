@@ -1,0 +1,41 @@
+.logo{
+		width: 75px;
+		height: auto;
+	}
+
+#social{
+	text-align: center;
+	background-color: #2ECCFA;
+	padding: 100px 0;
+}
+
+.titulo{
+	font-size: 32pt;
+	font-weight: bold;
+}
+
+#social a{
+	color: white;
+	font-size: 18pt;
+	padding-right: 20px;
+}
+#social a :hover{
+	color: blue;
+	transition: 1s;
+}
+#institucional{
+	text-align: left;
+	background-color: yellow;
+	padding: 10px;
+}
+#institucional h3{
+	text-decoration-color: #c0392b;
+}
+
+#serviço{
+	text-align: center;
+	background-color: #f39c12;
+}
+.pri{
+	padding: 50px;
+}
